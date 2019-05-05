@@ -21,11 +21,14 @@ description: Use native dialog UI elements
 #         under the License.
 -->
 
-|AppVeyor|Travis CI|
-|:-:|:-:|
-|[![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-plugin-dialogs?branch=master)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-plugin-dialogs)|[![Build Status](https://travis-ci.org/apache/cordova-plugin-dialogs.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-dialogs)|
 
-# cordova-plugin-dialogs
+
+# cordova-plugin-flyhh-dialogs
+
+forked from cordova-plugin-dialogs  
+This Plugin maybe fix that problem:
+1.android set Cancelable to false
+2.message support html message
 
 This plugin provides access to some native dialog UI elements
 via a global `navigator.notification` object.
