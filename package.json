@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-dialogs",
-  "version": "2.0.2-dev",
+  "name": "cordova-plugin-flyhh-dialogs",
+  "version": "2.0.3",
   "description": "Cordova Notification Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-dialogs",
+    "id": "cordova-plugin-flyhh-dialogs",
     "platforms": [
       "android",
       "browser",
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-dialogs"
+    "url": "https://github.com/cc4dogman/cordova-plugin-flyhh-dialogs.git"
   },
   "bugs": {
-    "url": "https://issues.apache.org/jira/browse/CB"
+    "url": ""
   },
   "keywords": [
     "cordova",
